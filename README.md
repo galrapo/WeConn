@@ -1,4 +1,4 @@
-# WeConn
+# WeConn - new repo for dev and non-commercial use
 echo "# WeConn" >> README.md
 git init
 git add README.md
